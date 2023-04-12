@@ -55,7 +55,7 @@ No link abaixo do [**Google Drive**](https://drive.google.com/file/d/1lTGX7qvQAD
 ## 🌲 Árvore de decisão
 
 <h1 align="center">
-    <img alt="Tree" title="Tree" src=".github/Tree_Decision_Car_Acceptability.png" width = "70%" />
+    <img alt="Tree" title="Tree" src=".github/Tree_Decision.png" width = "70%" />
 </h1>
 
 
