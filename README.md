@@ -12,7 +12,7 @@ Algoritmo de árvore de decisão feito em python com as bibliotecas pandas e skl
 <a href="">
          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
-       <a href="https://www.linkedin.com/in/matheusfbonfim/">
+       <a href="linkedin.com/in/paola-oliveira-">
          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
        </a>     
 </h2>
