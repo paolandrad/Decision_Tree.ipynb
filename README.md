@@ -88,6 +88,6 @@ Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
 
 <!-- Mensagem final -->
 <h3 align="center">
-Feito com ❤️ por <a href="https://www.linkedin.com/in/matheusfbonfim/">Matheus Bonfim</a>
+Feito com ❤️ por <a href="https://www.linkedin.com/in/paola-oliveira-/">Paola Oliveira</a>
 <br><br>
 </h3>
