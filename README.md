@@ -43,7 +43,7 @@ Algoritmo de árvore de decisão feito em python com as bibliotecas pandas e skl
 ## 💻 Sobre o projeto
 
 - A proposta do presente trabalho tem como objetivo demonstrar a aplicação de um metódo de aprendizado supervisionado, especificamente a técnica de **árvore de decisão**.
-- Utiliza-se a base de dados [**Car Evaluation**](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation), no qual contém informações de atributos de um carro e contribui para o prognóstico da qualidade de um veículo.
+- Utiliza-se a base de dados [**diabetes**](https://github.com/paolandrad/Decision_Tree.ipynb/blob/main/database/diabetes03.csv), no qual contém informações de atributos de um carro e contribui para o prognóstico da qualidade de um veículo.
 
 
 ## 🔖 Desenvolvimento
