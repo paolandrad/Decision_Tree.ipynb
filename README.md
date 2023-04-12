@@ -43,7 +43,7 @@ Algoritmo de árvore de decisão feito em python com as bibliotecas pandas e skl
 ## 💻 Sobre o projeto
 
 - A proposta do presente trabalho tem como objetivo demonstrar a aplicação de um metódo de aprendizado supervisionado, especificamente a técnica de **árvore de decisão**.
-- Utiliza-se a base de dados [**diabetes**](https://github.com/paolandrad/Decision_Tree.ipynb/blob/main/database/diabetes03.csv), no qual contém informações de atributos de um carro e contribui para o prognóstico da qualidade de um veículo.
+- Utiliza-se a base de dados [**Diabetes**](https://github.com/paolandrad/Decision_Tree.ipynb/blob/main/database/diabetes03.csv), no qual contém informações de atributos de um carro e contribui para o prognóstico da qualidade de um veículo.
 
 
 ## 🔖 Desenvolvimento
@@ -65,16 +65,15 @@ This project was developed with the following technologies:
 
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [pandas](https://pandas.pydata.org/)
-- [numpy](https://numpy.org/)
 
 ## ⛏ Tools
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Colab](https://colab.research.google.com/)
 
 ## 🚀 Como executar o projeto
 
    ```
    - Clone this repository:
-   $ git clone https://github.com/matheusfbonfim/DecisionTree-SupervisedLearning-CarEvaluation-DataSet
+   $ git clone https://github.com/paolandrad/Decision_Tree.ipynb/blob/main/Copy_of_Decision_Tree.ipynb
    - Enter in directory:
    $ cd src
    - Execute application:
