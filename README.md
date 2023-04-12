@@ -23,7 +23,7 @@ Algoritmo de árvore de decisão feito em python com as bibliotecas pandas e skl
 <h1 align="center">
    Aprendizado Supervisionado - Árvore de decisão
 <h2 align="center">
-   Car Evaluation - Data Set
+   Diabetes - Data Set
 </h2>
 </h1>
 
