@@ -3,7 +3,7 @@ Algoritmo de árvore de decisão feito em python com as bibliotecas pandas e skl
 
 
 <h2 align="center">
- />
+ 
 </a>
  
  
