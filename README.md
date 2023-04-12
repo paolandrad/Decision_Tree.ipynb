@@ -3,9 +3,7 @@ Algoritmo de árvore de decisão feito em python com as bibliotecas pandas e skl
 
 
 <h2 align="center">
-        
-<a href="https://drive.google.com/file/d/1lTGX7qvQADMDAtfkQ9LmwxCcLONXS2Ca/view?usp=sharing">
-         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+ />
 </a>
  
  
